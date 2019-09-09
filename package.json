@@ -1,0 +1,24 @@
+{
+  "name": "crud-interface",
+  "version": "1.0.0",
+  "description": "MongoDB CRUD Interface",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSan123/crud-interface.git"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamSan123/crud-interface/issues"
+  },
+  "homepage": "https://github.com/SamSan123/crud-interface#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.12"
+  }
+}
